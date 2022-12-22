@@ -12,9 +12,6 @@ import javax.servlet.http.HttpSession;
 import nongsan.webmvc.dao.impl.LoginDao;
 import nongsan.webmvc.model.User;
 
-/**
- * Servlet implementation class LoginController
- */
 public class LoginController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	public LoginController() {
