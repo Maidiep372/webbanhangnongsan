@@ -4,7 +4,6 @@
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
-
   <!-- Start slider -->
   <jsp:include page = "./banner-slider/slider.jsp" flush = "true" />
   <!-- / slider -->
