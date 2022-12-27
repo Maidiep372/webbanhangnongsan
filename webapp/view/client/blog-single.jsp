@@ -5,7 +5,7 @@
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
-  
+
 <!--  content -->
     <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
