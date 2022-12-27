@@ -3,7 +3,6 @@
 <c:url value = "/view/client/assets" var="url"/>
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
-  
   <section id="aa-catg-head-banner">
    <img src="${pageContext.request.contextPath}/view/client/assets/images/banner_tc.jpg" alt="banner sản phẩm">
    <div class="aa-catg-head-banner-area">
