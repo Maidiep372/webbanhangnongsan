@@ -27,7 +27,7 @@
                     <input type="text" class="form-control" id="input-4" placeholder="Nhập số điện thoại" name="user-phone">
                   </div>
                   <div class="form-group">
-                    <label for="input-3">UserName</label>
+                    <label for="input-3">Tài khoản</label>
                     <input type="text" class="form-control" id="input-5" placeholder="Nhập User Name" name="user-userName">
                   </div>
                   <div class="form-group">
