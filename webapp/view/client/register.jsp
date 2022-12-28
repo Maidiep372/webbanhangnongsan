@@ -41,7 +41,7 @@
                     <input type="text" placeholder="useremail@gmail.com" name="email" required>
                     <label for="">Số điện thoại<span>*</span></label>
                     <input type="text" placeholder="Số điện thoại" name="phone" required>   
-                     <label for="">Username<span>*</span></label>
+                     <label for="">Tài khoản<span>*</span></label>
                     <input type="text" placeholder="Username" name="username" required>
                     <label for="">Mật khẩu<span>*</span></label>  
                     <input type="password" placeholder="Password" name="password" required>     
