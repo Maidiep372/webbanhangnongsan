@@ -15,8 +15,6 @@
     <div class="content-wrapper">
       <div class="container-fluid">
         <!--End Row-->
-
-
         <div class="row">
  
           <div class="col-lg-12">
@@ -93,4 +91,5 @@
       </div>
     </div>
  
+    
     <jsp:include page = "./footer/footer.jsp" flush = "true" />
